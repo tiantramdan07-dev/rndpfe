@@ -99,7 +99,7 @@ function App() {
         <section>
           <div style={styles.sectionHeader}>
             <h2>Riwayat 10 Terakhir</h2>
-            <button onClick={loadLogs} style={styles.btnRefresh}>🔄 Refresh</button>
+            {/* <button onClick={loadLogs} style={styles.btnRefresh}>🔄 Refresh</button> */}
           </div>
 
           <div style={styles.grid}>
